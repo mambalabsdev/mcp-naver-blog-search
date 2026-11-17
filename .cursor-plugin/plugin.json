@@ -1,0 +1,39 @@
+{
+  "name": "mcp-naver-blog-search",
+  "displayName": "Naver Blog Search",
+  "version": "1.0.0",
+  "description": "MCP server for Naver Blog Search: Naver blog posts for keywords, with date and sort filters.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-naver-blog-search",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "naver",
+    "naver-blog",
+    "korea",
+    "korean",
+    "blog-search",
+    "social-listening",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "naver",
+    "naver-blog",
+    "korea",
+    "korean",
+    "blog-search",
+    "social-listening",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}

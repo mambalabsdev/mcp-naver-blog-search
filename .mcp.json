@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-naver-blog-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-naver-blog-search"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
