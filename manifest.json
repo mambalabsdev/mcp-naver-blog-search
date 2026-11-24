@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-naver-blog-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Naver Blog Search: Naver blog posts for keywords, with date and sort filters.",
   "author": {
     "name": "Mamba Labs"
