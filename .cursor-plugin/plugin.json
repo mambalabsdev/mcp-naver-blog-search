@@ -1,7 +1,7 @@
 {
   "name": "mcp-naver-blog-search",
   "displayName": "Naver Blog Search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Naver Blog Search: Naver blog posts for keywords, with date and sort filters.",
   "author": {
     "name": "Mamba Labs",
